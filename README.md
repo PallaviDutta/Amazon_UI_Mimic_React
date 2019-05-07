@@ -1,4 +1,4 @@
-## 🛍️ Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
+## Simple ecommerce cart application ##
 
 <p align="center">
 
@@ -19,11 +19,6 @@ friendly user experience with instant visual updates and scaleable code in ecomm
 - Unit tests, integration tests and e2e testing
 - Responsive design
 
-## Getting started
-
-Try playing with the code on CodeSandbox :)
-
-[![Edit app](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/74rykw70qq)
 
 ## Build/Run
 
@@ -65,7 +60,4 @@ The MIT License (MIT). Please see License File for more information.
 <br/>
 <br/>
 
-<p align="center"><img src="https://avatars2.githubusercontent.com/u/20846473?s=70&v=4" width="35" height="35"/></p>
-<p align="center">
-<sub>A little project by <a href="http://www.jeffersonribeiro.com/">Jefferson Ribeiro</a></sub>
 </p>
